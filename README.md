@@ -10,33 +10,28 @@
 
 
 # 📊 GitHub Stats
-<div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
+<span>
+<img height="174"  src="https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats" />
+<img height="174"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Github Top Languages" />
+</span>
 
-<style>
-.stats-container {
-    display: flex;
-    justify-content: center;
-    gap: 10px;
-    flex-wrap: wrap;
-}
 
-.stats-container img {
-    width: 49%; /* Make them equal and responsive */
-    max-width: 400px; /* Prevents excessive scaling */
-    height: auto;
-}
-</style>
 
 
 
 
 # 📈 Coding profiles stats
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+<span>
+  <img height="300" src="https://leetcard.jacoblin.cool/rancho_the_monk?ext=contest" alt="LeetCode Stats" />
+  <img height="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=rishu1702" alt="Codeforces Stats" />
+</span>
+
 
 
 ## 🌐 Let's Connect
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/rishu-raj.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj2025) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_rishu_raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishuraj1702@gmail.com) 
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rishu-raj.bsky.social) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj2025) 
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_rishu_raj) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishuraj1702@gmail.com)
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
