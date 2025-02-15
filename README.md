@@ -10,8 +10,26 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&width=400&height=200)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=400&height=200)
+<div class="stats-container">
+    <img src="https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<style>
+.stats-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.stats-container img {
+    width: 49%; /* Make them equal and responsive */
+    max-width: 400px; /* Prevents excessive scaling */
+    height: auto;
+}
+</style>
+
 
 
 
