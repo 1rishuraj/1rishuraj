@@ -10,8 +10,9 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&width=400&height=200)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&width=400&height=200)
+
 
 
 # 📈 Coding profiles stats
