@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Leetcode Stats
 <span>
-<img height="174"  src="https://leetcard.jacoblin.cool/rancho_the_monk" alt="Github Stats" />
+<img height="174"  src="https://leetcard.jacoblin.cool/pragmatic_guy" alt="Github Stats" />
 </span>
 
 
