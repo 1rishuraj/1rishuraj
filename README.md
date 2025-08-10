@@ -5,7 +5,7 @@
 
 ### 📊 GitHub Stats
 <span>
-<img height="174"  src="https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats" />
+<img height="165"  src="https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats" />
 <img height="174"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Github Top Languages" />
 </span>
 
