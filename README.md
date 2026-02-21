@@ -3,12 +3,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 📊 GitHub Stats
-<span>
-<img height="165"  src="https://github-readme-stats.vercel.app/api?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats" />
-<img height="174"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rishuraj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Github Top Languages" />
-</span>
-
 ### 🧑‍💻 Leetcode Stats
 <span>
 <img height="174"  src="https://leetcard.jacoblin.cool/pragmatic_guy" alt="Github Stats" />
@@ -22,3 +16,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishuraj1702@gmail.com)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ![Metrics](/github-metrics.svg)-->
