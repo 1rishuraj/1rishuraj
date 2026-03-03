@@ -3,15 +3,6 @@
   <i>Solana Protocol Engineer • Rust x Anchor • Full-Stack (Next.js/Node)</i>
 </p>
 
-<p align="center">
-  <a href="https://github.com/1rishuraj">
-    <img src="https://komarev.com/ghpvc/?username=1rishuraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/1rishuraj?tab=followers">
-    <img src="https://img.shields.io/github/followers/1rishuraj?label=Followers&style=flat&color=blue" alt="followers" />
-  </a>
-</p>
-
 ## 🚀 About Me
 - 🦀 Currently building and scaling smart contracts on **Solana** using **Rust** and **Anchor**.
 - 🌪️ Part of the **Turbin3 Builders Cohort**, specializing in protocol security and DeFi composability.
@@ -56,8 +47,8 @@
 </p>
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj2025)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_rishu_raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishu-raj2025)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xrishuraj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishuraj1702@gmail.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rishu-raj.bsky.social)
 
