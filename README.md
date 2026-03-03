@@ -3,6 +3,12 @@
   <i>Solana Protocol Engineer • Rust x Anchor • Full-Stack (Next.js/Node)</i>
 </p>
 
+<p align="center">
+  <a href="https://github.com/1rishuraj">
+    <img src="https://komarev.com/ghpvc/?username=1rishuraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
 ## 🚀 About Me
 - 🦀 Currently building and scaling smart contracts on **Solana** using **Rust** and **Anchor**.
 - 🌪️ Part of the **Turbin3 Builders Cohort**, specializing in protocol security and DeFi composability.
