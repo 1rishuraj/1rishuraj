@@ -24,8 +24,8 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **PulseRaise** | Decentralized crowdfunding dApp featuring dynamic platform fees and idle-capital yield generation via CPIs to Liquid Staking pools. | Solana, Anchor, Next.js |
-| **Solana Token and LP Manager** | Full-stack dApp utilizing Raydium SDK v2 to launch Token-2022 CPMM liquidity pools, manage deposits, and execute LP token burns. | React, Web3.js, Raydium SDK |
 | **T3** | A comprehensive collection of core Solana contracts built from scratch, including AMMs, Escrows, Vaults, and NFT Staking platforms. | Rust, Anchor, Metaplex Core |
+| **Solana Token and LP Manager** | Full-stack dApp utilizing Raydium SDK v2 to launch Token-2022 CPMM liquidity pools, manage deposits, and execute LP token burns. | React, Web3.js, Raydium SDK |
 | **PaytmNext Wallet** | High-throughput P2P wallet clone proving backend rigor: bank on-ramps, webhooks, and atomic financial transactions via PostgreSQL row-locking. | Next.js, Express, Prisma, Docker |
 
 ## 🛠️ Core Tech Stack
