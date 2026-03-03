@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Rishu Raj 👋</h1>
 <p align="center">
-  <i>Solana Protocol Engineer • Rust x Anchor • Full-Stack (Next.js)</i>
+  <i>Solana Protocol Engineer • Rust x Anchor • Full-Stack (Next.js/Node)</i>
 </p>
 
 <p align="center">
