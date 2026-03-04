@@ -48,7 +48,7 @@
 
 ## 📈 GitHub & Problem Solving
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=1rishuraj&theme=radical&hide_border=true" alt="github streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=1rishuraj&theme=radical&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="github streak" />
   <img height="170" src="https://leetcard.jacoblin.cool/pragmatic_guy?theme=dark&font=ABeeZee" alt="LeetCode card" />
 </p>
 
