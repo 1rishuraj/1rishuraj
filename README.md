@@ -12,14 +12,15 @@
 ## 🚀 About Me
 - 🦀 Currently building and scaling smart contracts on **Solana** using **Rust** and **Anchor**.
 - 🌪️ Part of the **Turbin3 Builders Cohort**, specializing in protocol security and DeFi composability.
-- 🛠️ Recently built **PulseRaise**: A decentralized crowdfunding dApp utilizing Cross-Program Invocations (CPIs) to generate native yield via Liquid Staking.
-- 🌉 Bridging the gap between robust Web2 architecture (Next.js/Postgres/Docker) and complex Web3 dApps.
-- 🤝 Actively exploring Web3 protocol engineering roles and contributing to the Solana ecosystem.
+- 🏆 Actively competing in Solana ecosystem bounties, most recently shipping **StrikeBiller**—a decentralized subscription engine.
+- 🌉 Bridging the gap between robust Web2 architecture (Next.js/Postgres/Docker) and complex Web3 distributed state machines.
+- 🤝 Actively exploring Web3 protocol engineering roles and contributing to the open-source Solana ecosystem.
 
 ## 📦 Featured Proof of Work
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **StrikeBiller** | Decentralized subscription billing engine reframing Solana as a backend state-machine. Replaces Web2 cron jobs with trustless PDAs, Escrow Vaults, and an off-chain lazy-execution Cranker bot. | Solana, Anchor, Next.js, Node.js |
 | **PulseRaise** | Decentralized crowdfunding dApp featuring dynamic platform fees and idle-capital yield generation via CPIs to Liquid Staking pools. | Solana, Anchor, Next.js |
 | **T3** | A comprehensive collection of core Solana contracts built from scratch, including AMMs, Escrows, Vaults, and NFT Staking platforms. | Rust, Anchor, Metaplex Core |
 | **Solana Token and LP Manager** | Full-stack dApp utilizing Raydium SDK v2 to launch Token-2022 CPMM liquidity pools, manage deposits, and execute LP token burns. | React, Web3.js, Raydium SDK |
@@ -46,11 +47,13 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
 
-## 📈 GitHub & Problem Solving
+## 📈 GitHub Activity & Problem Solving
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=1rishuraj&theme=radical&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="github streak" />
+  <br/>
   <img height="170" src="https://leetcard.jacoblin.cool/pragmatic_guy?theme=dark&font=ABeeZee" alt="LeetCode card" />
 </p>
+
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj2025)
