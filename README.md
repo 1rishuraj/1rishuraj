@@ -10,11 +10,11 @@
 </p>
 
 ## 🚀 About Me
-- 🦀 Currently building and scaling smart contracts on **Solana** using **Rust** and **Anchor**.
-- 🌪️ Part of the **Turbin3 Builders Cohort**, specializing in protocol security and DeFi composability.
+- 🛡️ Currently auditing and breaking smart contracts in **Cohort #4 of the Rektoff <> Solana Rust Security Bootcamp** (Selected top 3% from 4000+ applicants).
+- 🦀 Building high-performance, secure protocols on **Solana** using **Rust**, **Anchor**, and the **SVM**.
+- 🌪️ **Turbin3 Builders Alumni**, specializing in complex decentralized state machines and DeFi composability.
+- 🌉 Bridging the gap between robust Web2 infrastructure (Postgres/Docker/Node) and trustless Web3 financial execution.
 - 🏆 Actively competing in Solana ecosystem bounties, most recently shipping **StrikeBiller**—a decentralized subscription engine.
-- 🌉 Bridging the gap between robust Web2 architecture (Next.js/Postgres/Docker) and complex Web3 distributed state machines.
-- 🤝 Actively exploring Web3 protocol engineering roles and contributing to the open-source Solana ecosystem.
 
 ## 📦 Featured Proof of Work
 
