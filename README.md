@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🛡️ Currently breaking smart contracts as a **Rust Security Auditor within the Rektoff <> Solana Foundation Apprenticeship** (Selected top 3% from 4000+ applicants).
-- 🌪️ Selected for the elite **Turbin3 Accelerated Builders** track, architecting complex decentralized state machines and high-throughput DeFi primitives.
+- 🌪️ **Turbin3 Builders Alumni**, specializing in complex decentralized state machines and DeFi composability.
 - 🦀 Building secure, low-latency infrastructure on **Solana** using **Rust**, **Anchor**, and the **SVM**.
 - 🌉 Bridging the gap between heavy off-chain backends (Axum/Postgres/Docker) and trustless Web3 financial execution.
 - 🏆 Actively shipping in the Solana ecosystem—most recently architecting **StrikeBiller** (a decentralized subscription engine) and **PulseRaise**.
