@@ -26,11 +26,11 @@
 
 | Repository / Project | Description | Stack |
 |----------------------|-------------|-------|
-| **[bounded-mpmc-queue](https://github.com/1rishuraj)** | High-performance, lock-free Multi-Producer Multi-Consumer queue sustaining **63M+ ops/sec** on Intel i5-12450H under WSL2. Built with Vyukov's ring buffer algorithm — zero OS scheduling overhead. | Rust, Atomics, stdlib only |
+| **[bounded-mpmc-queue](https://github.com/1rishuraj/bounded-mpmc-queue)** | High-performance, lock-free Multi-Producer Multi-Consumer queue sustaining **63M+ ops/sec** on Intel i5-12450H under WSL2. Built with Vyukov's ring buffer algorithm — zero OS scheduling overhead. | Rust, Atomics, stdlib only |
 | **[StrikeBiller](https://github.com/1rishuraj/strikebiller)** | Decentralized subscription billing engine reframing Solana as a backend state machine. Replaces Web2 cron jobs with trustless PDAs, escrow vaults, and an off-chain lazy-execution cranker bot. | Solana, Anchor, Next.js, Node.js |
-| **[PulseRaise](https://github.com/1rishuraj)** | Decentralized crowdfunding dApp with dynamic platform fees and idle-capital yield generation via CPIs to Jito Liquid Staking pools. | Solana, Anchor, Next.js, SPL-Stake-Pool |
-| **[rust-anchor](https://github.com/1rishuraj)** | Comprehensive library of core Solana contracts — transfer hooks, escrows, AMMs, NFT staking, VRF integrations, and ultra-optimized Pinocchio programs (~1,300 CUs/instruction). | Rust, Anchor, Pinocchio, Native Solana |
-| **[PaytmNext Wallet](https://github.com/1rishuraj)** | High-throughput P2P wallet with bank on-ramps, idempotent webhooks, and atomic financial transactions via PostgreSQL row-locking. Dockerized CI/CD to AWS EC2. | Next.js, Express, Prisma, Docker, AWS |
+| **[PulseRaise](https://github.com/1rishuraj/PulseRaise)** | Decentralized crowdfunding dApp with dynamic platform fees and idle-capital yield generation via CPIs to Jito Liquid Staking pools. | Solana, Anchor, Next.js, SPL-Stake-Pool |
+| **[rust-anchor](https://github.com/1rishuraj/rust-anchor)** | Comprehensive library of core Solana contracts — transfer hooks, escrows, AMMs, NFT staking, VRF integrations, and ultra-optimized Pinocchio programs (~1,300 CUs/instruction). | Rust, Anchor, Pinocchio, Native Solana |
+| **[PaytmNext Wallet](https://github.com/1rishuraj/PaytmNext-Wallet)** | High-throughput P2P wallet with bank on-ramps, idempotent webhooks, and atomic financial transactions via PostgreSQL row-locking. Dockerized CI/CD to AWS EC2. | Next.js, Express, Prisma, Docker, AWS |
 
 ## 🛠️ Core Tech Stack
 
