@@ -10,9 +10,9 @@
 </p>
 
 ## 🚀 About Me
+- 🌪️ Selected for the elite **Turbin3 Accelerated Builders** track, architecting complex decentralized state machines and high-throughput DeFi primitives.
 - 🛡️ Currently breaking smart contracts as a **Rust Security Auditor within the Rektoff <> Solana Foundation Apprenticeship** (Selected top 3% from 4000+ applicants).
-- ⚡ **Obsessed with Low-Latency Systems:** Diving deep into hardware-level Rust by building lock-free data structures (MPMC & SPSC queues), custom spinlocks, and mastering CPU cache coherence, memory barriers, and the MESI protocol.
-- 🌪️ **Turbin3 Builders Alumni**, specializing in complex decentralized state machines and DeFi composability.
+- ⚡ **Exploring Low-Latency Systems:** Diving into hardware-level Rust by building lock-free data structures (MPMC & SPSC queues), custom spinlocks, and mastering CPU cache coherence, memory barriers, and the MESI protocol.
 - 🦀 Building secure, low-latency infrastructure on **Solana** using **Rust**, **Anchor**, and the **SVM**.
 - 🌉 Building highly concurrent, async Rust backends to power trustless Web3 execution.
 - 🏆 Actively shipping in the Solana ecosystem—most recently architecting **StrikeBiller** (a decentralized subscription engine) and **PulseRaise**.
