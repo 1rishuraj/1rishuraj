@@ -12,9 +12,6 @@
   <a href="https://github.com/1rishuraj">
     <img src="https://komarev.com/ghpvc/?username=1rishuraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://drive.google.com/file/d/1CLc8zMxlV-nCrq7RJi4oTJFX0RQETUSF/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-View-red?style=flat&logo=adobeacrobatreader&logoColor=white" alt="resume" />
-  </a>
 </p>
 
 ## 🚀 About Me
