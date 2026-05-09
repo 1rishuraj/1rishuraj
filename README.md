@@ -4,11 +4,6 @@
 </p>
 
 <p align="center">
-  <b>📫 Open to Web3 / Rust Engineering roles — Remote or India</b><br/>
-  <a href="mailto:rishuraj1702@gmail.com">rishuraj1702@gmail.com</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/1rishuraj">
     <img src="https://komarev.com/ghpvc/?username=1rishuraj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
