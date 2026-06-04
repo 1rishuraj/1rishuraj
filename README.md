@@ -10,9 +10,9 @@
 </p>
 
 ## 🚀 About Me
-- 🦀 Learning **Rust** and **Full Stack** everyday to become better
-- 🌪️ **Turbin3 Builder** — building advanced DeFi primitives and decentralized state machines.
 - 🛡️ Trained as a Rust Security Auditor through the **Rektoff × Solana Foundation Apprenticeship** (Top 3% of 4,000+ applicants).
+- 🌪️ **Turbin3 Accelerated Builder** — building advanced DeFi primitives and decentralized state machines.
+- 🦀 Learning **Rust** and **Full Stack** everyday to become better
 - ⚡ **Exploring Low-Latency Systems:** Building lock-free data structures (MPMC/SPSC queues), custom spinlocks, and mastering CPU cache coherence, memory barriers, and the MESI protocol.
 - 🏆 Recent work: **StrikeBiller** (decentralized subscription engine) and **PulseRaise** (LST-yield crowdfunding).
 
