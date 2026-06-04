@@ -10,11 +10,10 @@
 </p>
 
 ## 🚀 About Me
-- 🛡️ Training as a Rust Security Auditor through the **Rektoff × Solana Foundation Apprenticeship** (Top 3% of 4,000+ applicants).
-- 🌪️ Selected for **Turbin3 Accelerated Builders** — starting April 2026, building advanced DeFi primitives and decentralized state machines.
+- 🦀 Learning **Rust** and **Full Stack** everyday to become better
+- 🌪️ **Turbin3 Builder** — building advanced DeFi primitives and decentralized state machines.
+- 🛡️ Trained as a Rust Security Auditor through the **Rektoff × Solana Foundation Apprenticeship** (Top 3% of 4,000+ applicants).
 - ⚡ **Exploring Low-Latency Systems:** Building lock-free data structures (MPMC/SPSC queues), custom spinlocks, and mastering CPU cache coherence, memory barriers, and the MESI protocol.
-- 🦀 Shipping secure, low-latency infrastructure on **Solana** using **Rust**, **Anchor**, and the **SVM**.
-- 🌉 Building highly concurrent, async Rust backends to power trustless Web3 execution.
 - 🏆 Recent work: **StrikeBiller** (decentralized subscription engine) and **PulseRaise** (LST-yield crowdfunding).
 
 ## 📦 Featured Proof of Work
@@ -24,7 +23,7 @@
 | **[bounded-mpmc-queue](https://github.com/1rishuraj/bounded-mpmc-queue)** | High-performance, lock-free Multi-Producer Multi-Consumer queue sustaining **63M+ ops/sec** on Intel i5-12450H under WSL2. Built with Vyukov's ring buffer algorithm — zero OS scheduling overhead. | Rust, Atomics, stdlib only |
 | **[StrikeBiller](https://github.com/1rishuraj/strikebiller)** | Decentralized subscription billing engine reframing Solana as a backend state machine. Replaces Web2 cron jobs with trustless PDAs, escrow vaults, and an off-chain lazy-execution cranker bot. | Solana, Anchor, Next.js, Node.js |
 | **[PulseRaise](https://github.com/1rishuraj/PulseRaise)** | Decentralized crowdfunding dApp with dynamic platform fees and idle-capital yield generation via CPIs to Jito Liquid Staking pools. | Solana, Anchor, Next.js, SPL-Stake-Pool |
-| **[rust-anchor](https://github.com/1rishuraj/rust-anchor)** | Comprehensive library of core Solana contracts — transfer hooks, escrows, AMMs, NFT staking, VRF integrations, and ultra-optimized Pinocchio programs (~1,300 CUs/instruction). | Rust, Anchor, Pinocchio, Native Solana |
+| **[rust-anchor](https://github.com/1rishuraj/rust-anchor)** | Comprehensive library of core Solana contracts and concept-based Anchor programs. | Rust, Anchor, Native Solana |
 | **[PaytmNext Wallet](https://github.com/1rishuraj/PaytmNext-Wallet)** | High-throughput P2P wallet with bank on-ramps, idempotent webhooks, and atomic financial transactions via PostgreSQL row-locking. Dockerized CI/CD to AWS EC2. | Next.js, Express, Prisma, Docker, AWS |
 
 ## 🛠️ Core Tech Stack
