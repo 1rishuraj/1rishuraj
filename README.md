@@ -10,7 +10,7 @@
 </div>
 
 
-* `Research Engineer at TCS Research` - Building full-stack data dashboards and ML models for digital identity and post-quantum cryptography systems.
+* `Research Engineer at TCS Research` - Worked on decentralized identity systems; now developing a recommendation module for PQC migration of crypto assets vulnerable to HNDL attacks through risk scoring.
 
 * `Solana Protocol Engineer` - Trained as a Rust Security Auditor through the **Rektoff × Solana Foundation Apprenticeship** (Top 3% of 4,000+ applicants) and a **Turbin3 Accelerated Builder**.
 
