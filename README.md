@@ -1,6 +1,17 @@
+<div align="center">
+
 ## 👋 Rishu here!
 
-* `Researcher at TCS Research` - Building full-stack data dashboards and ML models for digital identity and post-quantum cryptography systems.
+[![X (Twitter)](https://img.shields.io/badge/@0xrishuraj-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xrishuraj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishu--raj2025-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishu-raj2025)
+[![Gmail](https://img.shields.io/badge/Gmail-rishuraj1702-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:rishuraj1702@gmail.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-rishu--raj-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/rishu-raj.bsky.social)
+
+</div>
+
+
+* `Research Engineer at TCS Research` - Building full-stack data dashboards and ML models for digital identity and post-quantum cryptography systems.
+
 * `Solana Protocol Engineer` - Trained as a Rust Security Auditor through the **Rektoff × Solana Foundation Apprenticeship** (Top 3% of 4,000+ applicants) and a **Turbin3 Accelerated Builder**.
 
 ---
@@ -32,44 +43,37 @@
 ### Core Tech Stack
 
 #### Systems & Smart Contracts
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor%20Framework-1f2937?style=for-the-badge&logo=solana&logoColor=00FFA3)
-![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor%20Framework-1f2937?style=flat&logo=solana&logoColor=00FFA3)
+![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=white)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 
 #### Frontend & Backend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
 #### Cloud, Tools & AI
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+
 
 ---
 
 ### GitHub Analytics & Problem Solving
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1rishuraj&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1rishuraj&theme=tokyonight" />
+  <img  height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1rishuraj&theme=tokyonight" />
+  <img  height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1rishuraj&theme=tokyonight" />
+  <img height="155" src="https://leetcard.jacoblin.cool/pragmatic_guy?theme=dark&font=ABeeZee" alt="LeetCode problems solved" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://leetcard.jacoblin.cool/pragmatic_guy?theme=dark&font=ABeeZee" alt="LeetCode problems solved" />
 </p>
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishu-raj2025)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xrishuraj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishuraj1702@gmail.com)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/rishu-raj.bsky.social)
 
 ---
 
