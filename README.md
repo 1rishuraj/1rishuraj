@@ -69,7 +69,7 @@
 <p align="center">
   <img  height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1rishuraj&theme=tokyonight" />
   <img  height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1rishuraj&theme=tokyonight" />
-  <img height="180" src="https://leetcard.jacoblin.cool/pragmatic_guy?theme=dark&font=ABeeZee" alt="LeetCode problems solved" />
+  <img height="150" src="https://leetcard.jacoblin.cool/pragmatic_guy?theme=dark&font=ABeeZee" alt="LeetCode problems solved" />
 </p>
 
 <p align="center">
