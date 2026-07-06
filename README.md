@@ -19,7 +19,7 @@
 ## Projects
 
 #### [PaytmNext Wallet](https://github.com/1rishuraj/PaytmNext-Wallet)
-* Built a high-throughput P2P digital wallet with bank on-ramps. Implemented atomic financial transactions preventing race conditions via PostgreSQL `FOR UPDATE` row-locking. Fully dockerized CI/CD to AWS EC2.
+* Built a high-throughput P2P digital wallet with bank on-ramps. Implemented atomic financial transactions preventing race conditions via PostgreSQL row-locking. Fully dockerized CI/CD to AWS EC2.
 * **Stack:** Next.js, Express, Prisma, PostgreSQL, Docker, AWS
 
 #### [Chat-Room](https://github.com/1rishuraj/Chat-front)
