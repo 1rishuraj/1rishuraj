@@ -22,21 +22,23 @@
 * Built a high-throughput P2P digital wallet with bank on-ramps. Implemented atomic financial transactions preventing race conditions via PostgreSQL `FOR UPDATE` row-locking. Fully dockerized CI/CD to AWS EC2.
 * **Stack:** Next.js, Express, Prisma, PostgreSQL, Docker, AWS
 
-#### [Chat-Room](https://github.com/yourusername/Chat-front)
+#### [Chat-Room](https://github.com/1rishuraj/Chat-front)
 * A real-time, room-based chat application featuring instant two-way communication via WebSockets, secure room-code joining, and a dynamic, auto-updating chat feed.
 * **Stack:** React, WebSockets, Node.js
 
-#### [StrikeBiller](https://github.com/yourusername/StrikeBiller)
-* Decentralized subscription billing engine reframing Solana as a backend state machine. Replaces Web2 cron jobs with trustless PDAs, escrow vaults, and an off-chain lazy-execution cranker bot.
-* **Stack:** Rust, Solana, Anchor, Next.js, Node.js
-
-#### [PulseRaise](https://github.com/yourusername/PulseRaise)
+#### [PulseRaise](https://github.com/1rishuraj/PulseRaise)
 * Yield-backed decentralized crowdfunding dApp with dynamic platform fees and idle-capital yield generation via CPIs to Jito Liquid Staking pools.
 * **Stack:** Rust, Solana, Anchor, Next.js, Redux
 
-#### [RealtyRadar](https://github.com/1rishuraj/RealtyRadar)
+#### [Partoken](https://github.com/1rishuraj/Partoken)
+* Full-stack Solana trading platform enabling users to buy and sell Partokens on Raydium Devnet, track real-time prices, view transaction history, and manage wallet balances.
+* **Stack:** Node.js, React.js, MongoDB, Web3.js, Tailwind CSS, Raydium SDK
+
+
+#### [RealtyRadar](https://github.com/1rishuraj/Realty-Radar)
 * Real estate price prediction engine with 86% R² accuracy. Handled outlier removal, one-hot encoding, and hyperparameter tuning. Served the ML model via Flask and Nginx on AWS.
 * **Stack:** Python, Scikit-Learn, Flask, AWS EC2, Nginx
+
 
 ---
 
