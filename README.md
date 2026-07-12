@@ -22,7 +22,7 @@
 * Built a high-throughput P2P digital wallet with bank on-ramps. Implemented atomic financial transactions preventing race conditions via PostgreSQL row-locking. Fully dockerized CI/CD to AWS EC2.
 * **Stack:** Next.js, Express, Prisma, PostgreSQL, Docker, AWS
 
-#### [Chat-Room](https://github.com/1rishuraj/Chat-front)
+#### [Chat-Room](https://github.com/1rishuraj/ChatRoom)
 * A real-time, room-based chat application featuring instant two-way communication via WebSockets, secure room-code joining, and a dynamic, auto-updating chat feed.
 * **Stack:** React, WebSockets, Node.js
 
